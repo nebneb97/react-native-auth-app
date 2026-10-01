@@ -13,8 +13,8 @@ A React Native (Expo) app with Login, Signup and Home screens. Authentication is
 You need **Node.js** installed and the **Expo Go** app on your phone.
 
 ```bash
-git clone https://github.com/nebneb97/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/nebneb97/react-native-auth-app.git
+cd react-native-auth-app
 npm install
 npx expo start
 ```
